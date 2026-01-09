@@ -1,39 +1,129 @@
-# MediQueue-Smart-Hospital-Management-system-Figma-Prototype-
-# 🏥 MediQueue - Smart Hospital Management System
+# 🏥 MediQueue – Smart Hospital Management System
+
+**Figma UX/UI Prototype**
 
 > **Skip the Wait, Not the Care.**
 
-**MediQueue** is a web-based smart queue management system designed to streamline patient flow, reduce waiting times, and improve the overall healthcare delivery experience. It features dedicated portals for patients, doctors, and hospital administrators, along with a public display system for waiting areas.
+**MediQueue** is a **high-fidelity Figma prototype** of a smart hospital queue management system, designed to optimize patient flow and improve the healthcare experience through **well-structured layouts, scalable components, and user-centric wireframes**.
+
+This prototype demonstrates a complete **end-to-end UI/UX workflow**, covering patient interaction, doctor operations, administrative control, and public-facing queue displays.
 
 ---
 
-## 📸 Screenshots
+## 🎨 Design Overview
 
-| Landing Page | Admin Dashboard |
-|:---:|:---:|
-| <img src="sahrior/mediqueue-smart-hospital-management-system-/MediQueue-Smart-Hospital-Management-system--2602de782cb81b16f86655fb6cd0d4c69a5a2b58/logo.png" width="100"> | <img src="sahrior/mediqueue-smart-hospital-management-system-/MediQueue-Smart-Hospital-Management-system--2602de782cb81b16f86655fb6cd0d4c69a5a2b58/feature1.png" width="100"> |
+* **Design Tool:** Figma
+* **Design Type:** Wireframe → High-fidelity UI
+* **Design System:** Component-based architecture
+* **Layout Strategy:** Grid-based, responsive web layouts
+* **Focus Areas:** Usability, accessibility, clarity, and real-time visibility
 
 ---
 
-## ✨ Key Features
+## 🧩 Screens & Layouts
 
-### 👨‍👩‍👧‍👦 Patient Portal
-* **User Authentication:** Secure Login and Registration pages.
-* **Appointment Booking:** Options for **Standard** and **Emergency** appointments.
-* **Live Ticket Status:** View current token number, people ahead, and estimated wait time.
-* **AI Chatbot UI:** Integrated interface for patient assistance.
+|                    Landing Layout                    |              Admin Dashboard Layout             |
+| :--------------------------------------------------: | :---------------------------------------------: |
+| Brand-focused hero section with CTA-driven wireframe | Data-dense dashboard layout with cards & tables |
 
-### 👨‍⚕️ Doctor Console
-* **Dedicated Login/Signup:** Secure access for medical staff.
-* **Queue Management:** Tools to manage patient queues and call the next patient.
-* **Patient Statistics:** Overview of daily patients and satisfaction rates.
+---
 
-### 🛡️ Admin Dashboard
-* **Operations Monitor:** Track total patients, active doctors, and average wait times.
-* **Doctor Management:** View status (Active/Break/Off) and manage staff details.
-* **Emergency Oversight:** Monitor active emergency cases.
+## 🧱 Core Design Components
 
-### 🖥️ Public Display System
-* **Waiting Room View:** A large-screen display interface for waiting areas.
-* **Real-time Updates:** Shows "Now Calling" and "Upcoming" tokens.
-* **Audio/Visual Cues:** Designed for high visibility.
+* **Reusable UI Components**
+
+  * Buttons, input fields, cards, modals, status badges
+* **Consistent Typography Scale**
+
+  * Clear hierarchy for headings, body text, and labels
+* **Color System**
+
+  * Semantic colors for status (Active, Emergency, Waiting)
+* **Iconography**
+
+  * Context-aware icons for faster visual recognition
+
+---
+
+## ✨ Feature-Wise UI Breakdown
+
+### 👨‍👩‍👧‍👦 Patient Portal (UX-Focused Flow)
+
+* **Authentication Wireframes**
+
+  * Login & registration screens with minimal cognitive load
+* **Appointment Booking Layout**
+
+  * Separate UI flows for **Standard** and **Emergency** tickets
+* **Live Queue Status Screen**
+
+  * Token number, people ahead, and ETA presented via info cards
+* **AI Chatbot Interface**
+
+  * Conversational UI component integrated into patient layout
+
+---
+
+### 👨‍⚕️ Doctor Console (Operational Layout)
+
+* **Dedicated Access Screens**
+
+  * Secure login/signup wireframes for doctors
+* **Queue Control Panel**
+
+  * Action-driven layout for calling next patients
+* **Patient Insights View**
+
+  * Statistics cards showing daily count and satisfaction rate
+
+---
+
+### 🛡️ Admin Dashboard (System Control UI)
+
+* **Dashboard Grid Layout**
+
+  * KPI cards for total patients, doctors, and wait time
+* **Doctor Management Table**
+
+  * Status indicators (Active / Break / Off Duty)
+* **Emergency Monitoring Panel**
+
+  * High-priority visual hierarchy for critical cases
+
+---
+
+### 🖥️ Public Display System (Information Architecture)
+
+* **Large-Screen Optimized Layout**
+
+  * Designed for TVs and digital displays
+* **Token Announcement UI**
+
+  * “Now Calling” & “Up Next” sections
+* **Visual & Audio Cue Design**
+
+  * High contrast and readability from a distance
+
+---
+
+## 🧠 UX Design Considerations
+
+* Clear **information hierarchy** for fast comprehension
+* Reduced user friction with **guided flows**
+* **Component reusability** for scalable development
+* Accessibility-friendly color contrast and spacing
+* Real-time data visualization readiness
+
+---
+
+## 🚀 Purpose of This Prototype
+
+This Figma prototype is built to:
+
+* Serve as a **design blueprint** for developers
+* Demonstrate **real-world healthcare UX problems**
+* Showcase **system-level UI thinking** for portfolios and project shows
+
+---
+
+📌 *This repository contains the complete UI/UX design of MediQueue and can be directly used as a reference for frontend or full-stack implementation.*
